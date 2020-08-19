@@ -11,4 +11,4 @@ We take data for two years (2015, 2019) from BTS website to analyse various fact
 
 Please do let me know if you find any mistakes in the notebooks as I am too data science learner. And any suggestions are also welcome!!
 
-PLEASE DO IGNORE FILES CALLED "MODELS", "MODELS 2019" and ""
+PLEASE DO IGNORE FILES CALLED "MODELS" and "MODELS 2019".
